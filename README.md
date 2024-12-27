@@ -44,13 +44,16 @@ I detailed the requirements from product manager as follows.
 <p align="center">
     <img src="requirements.png" alt="what">
 </p>
-<p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
-</p>
 
 ### Mockup created before executing 
-(mockup)
+<p align="center">
+    <img src="mockup.png" alt="what">
+</p>
+
 ## Dashboard
-(dashboard image)
+<p align="center">
+    <img src="Dashboard_report-1.png" alt="what">
+</p>
+
 ## Conclusion
 The retail transactions dashboard provides a comprehensive overview of key performance metrics, including total sales, customer transactions, profit, discounts, and product quantities, enabling a clear understanding of overall business performance. With detailed trend analysis through time-based revenue visualizations, businesses can identify sales patterns and seasonal impacts. Insights into payment method performance highlight transaction volumes and values, while product-level analyses reveal top-selling items and their contribution to revenue. Additionally, the dashboard uncovers discount spending efficiency across products and categories, ensuring cost-effective promotions. Summaries of customer and product transactions offer granular insights into purchasing behaviors and profitability, empowering businesses to make data-driven decisions to enhance operational efficiency and drive growth.
