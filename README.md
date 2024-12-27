@@ -5,33 +5,33 @@ Key features include:
 
 **1. Overall Transaction Performance**
 <p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
+    <img src="1.png" alt="what">
 </p>
 Metrics displayed: total sales, total customers, profit, total discount, and product quantity sold.
 
 **2. Sales Trend Overtime**
 <p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
+    <img src="2.png" alt="what">
 </p>
 Line charts and pie charts to showcase revenue trends over specific time periods for identifying patterns and seasonal influences.
 
 
 **3. Payment Method Performance**
 <p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
+    <img src="3.png" alt="what">
 </p>
 Transaction counts by payment method line charts.
 Transaction values segmented by payment method pie charts.
 
 **4. Top-selling products & Discount Spending**
 <p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
+    <img src="4.png" alt="what">
 </p>
 Sales value per product displayed in bar/column/pie charts to highlight best-performing items. Discount values analyzed by product or product category.
 
 **5. Transaction Summaries**
 <p align="center">
-    <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
+    <img src="5.png" alt="what">
 </p>
 Detailed tables summarizing performance by product and customer:
 Product-level data: units sold, revenue, discount amounts.
@@ -41,7 +41,9 @@ Customer-level data: transaction frequency, revenue, profit contribution.
 
 ## Requirements
 I detailed the requirements from product manager as follows.
-(requirements image)
+<p align="center">
+    <img src="requirements.png" alt="what">
+</p>
 <p align="center">
     <img src="https://github.com/raniavirdas/CyberbullyingClassification/assets/91519107/fb42820f-8569-4a66-b75d-8d4a0f64e275" alt="what">
 </p>
